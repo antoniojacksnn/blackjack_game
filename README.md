@@ -1,4 +1,4 @@
-Simple interactive battleship game with GUI built using pygame
+Simple interactive blackjack game with GUI built using pygame
 
 This version uses the pygame library to create a graphical user interface for the game. 
 
